@@ -1,10 +1,49 @@
 import React from 'react';
 import './App.css';
+import Header from './Components/Header';
 
 function App() {
   return (
     <div className='app'>
-      <h1>Let's Build Youtube Clone🚀</h1>
+      <Header />
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
     </div>
   );
 }
