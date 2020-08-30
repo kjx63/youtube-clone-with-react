@@ -15,7 +15,6 @@ import './Sidebar.css';
 const Sidebar = () => {
   return (
     <div className='sidebar'>
-      <h2>SideBar</h2>
       <SidebarRow selected Icon={HomeIcon} title='Home' />
       <SidebarRow Icon={WhatshotIcon} title='Subscription' />
       <SidebarRow Icon={SubscriptionsIcon} title='Trending' />
